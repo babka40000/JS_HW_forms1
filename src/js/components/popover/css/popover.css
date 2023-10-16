@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+}
+
+.random-button {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+}
+
+.popover {
+    position: absolute;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.popover-body {
+    border-top: 1px solid gray;
+    padding: 3px;
+}
+
+.popover-title {
+    padding: 3px
+}
